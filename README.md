@@ -44,7 +44,7 @@
 
 
 <a href="https://github.com/dcipher00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcipher00&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcipher00&theme=dark&hide_langs_below=1&count_private=true" />
 </a>
 <a href="https://github.com/dcipher00">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcipher00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"" alt="Gaurav's github stats"/>
